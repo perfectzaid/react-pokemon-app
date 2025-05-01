@@ -1,5 +1,7 @@
 # react-pokemon-app
 created a app where you can filter pokemon by there type and name
+
+
 in your terminal
 npx create-react-app pokemon-search-app
 
