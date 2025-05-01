@@ -2,7 +2,7 @@
 created a app where you can filter pokemon by there type and name
 
 
-in your terminal
+In your terminal
 npx create-react-app pokemon-search-app
 
 cd pokemon-search-app
